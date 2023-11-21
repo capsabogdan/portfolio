@@ -13,8 +13,8 @@ Data Science Portfolio - DTU Projects
 - Predicted media bias using Word2Vec, to obtain vectorial representations of articles
 
 ## Machine Learning Operations - Movie Recommendations
-- Deployed a Deep Learning Graph Neural Network recommendation System on the Google Cloud Platform (GCP), using Docker, Vertex
-- Trained models in GCP using Vertex AI
+- Deployed a Graph Neural Network Recommendations System on the Google Cloud Platform (GCP), using Docker
+- - Trained models in GCP using Vertex AI
 - Created a data storage in GCP Bucket for storing data and models
 - Create a FastAPI application for exposing the model`s inference and triggering workflows for automatically building docker images
 
